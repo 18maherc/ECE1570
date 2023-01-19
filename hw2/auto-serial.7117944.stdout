@@ -1,0 +1,14 @@
+n = 500, simulation time = 1.6847 seconds
+n = 500,threads = 1, simulation time = 1.71996 seconds
+n = 500,threads = 2, simulation time = 1.68184 seconds
+n = 500,threads = 4, simulation time = 1.72527 seconds
+n = 500,threads = 6, simulation time = 1.76685 seconds
+n = 500,threads = 12, simulation time = 1.82062 seconds
+n = 500,threads = 18, simulation time = 1.87739 seconds
+n = 500,threads = 24, simulation time = 1.94358 seconds
+n = 1000,threads = 2, simulation time = 4.15956 seconds
+n = 2000,threads = 4, simulation time = 7.3319 seconds
+n = 3000,threads = 6, simulation time = 10.7801 seconds
+n = 6000,threads = 12, simulation time = 26.3469 seconds
+n = 9000,threads = 18, simulation time = 39.3043 seconds
+n = 12000,threads = 24, simulation time = 53.6345 seconds

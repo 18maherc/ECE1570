@@ -1,0 +1,27 @@
+-- Optimized implementation
+CPU-GPU copy time = 4.3e-05 seconds
+n = 2000, simulation time = 0.603466 seconds
+
+CPU-GPU copy time = 4.4e-05 seconds
+n = 4000, simulation time = 1.12602 seconds
+
+CPU-GPU copy time = 9.5e-05 seconds
+n = 16000, simulation time = 4.29286 seconds
+
+CPU-GPU copy time = 0.000149 seconds
+n = 32000, simulation time = 8.51689 seconds
+
+
+-- Original implementation
+CPU-GPU copy time = 0.000106 seconds
+n = 16000, simulation time = 4.3485 seconds
+
+CPU-GPU copy time = 4.7e-05 seconds
+n = 4000, simulation time = 1.11425 seconds
+
+CPU-GPU copy time = 4e-05 seconds
+n = 2000, simulation time = 0.594604 seconds
+
+
+-- Serial implementation
+n = 2000, simulation time = 9.11014 seconds
